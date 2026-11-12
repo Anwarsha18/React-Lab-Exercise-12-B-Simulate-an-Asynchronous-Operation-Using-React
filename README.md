@@ -123,8 +123,8 @@ button:disabled {
 ```
 
 ## OUTPUT
-<img width="970" height="436" alt="image" src="https://github.com/user-attachments/assets/15294069-d2a2-4f1c-aa1d-0da046a685c6" />
-<img width="987" height="615" alt="image" src="https://github.com/user-attachments/assets/425be8cf-e93c-4a68-a8ac-29551ef3721a" />
+<img width="455" height="235" alt="image" src="https://github.com/user-attachments/assets/b29028ff-1ea5-4462-b468-d9df80e5d74a" />
+<img width="452" height="272" alt="image" src="https://github.com/user-attachments/assets/d5bc3b3a-7954-4d35-a4ac-fa25b6167324" />
 
 ## RESULT
 
